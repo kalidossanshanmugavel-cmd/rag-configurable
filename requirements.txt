@@ -1,0 +1,9 @@
+faiss-cpu
+numpy
+PyPDF2
+nltk
+python-dotenv
+sentence-transformers
+google-genai
+openai
+requests
